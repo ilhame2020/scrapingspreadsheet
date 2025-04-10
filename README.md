@@ -1,7 +1,9 @@
 # scrapingspreadsheet
-The goal is to automate the processes of the sourcing phase.
-Processes to automate:
-extract the candidats data in xls (done)
-upload excels to the platform
-upload each files candidate in drive
-pass each candidate to the next phase 
+<h2>The goal is to automate the processes of the sourcing phase.</h2>
+
+<h3>Processes to automate:</h3>
+<li>
+<ul>extract the candidats data in xls (done)</ul><ul>upload excels to the platform</ul><ul>upload each files candidate in drive</ul>
+<ul>pass each candidate to the next phase </ul>
+
+</li>
